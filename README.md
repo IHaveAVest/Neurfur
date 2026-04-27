@@ -6,3 +6,5 @@ VotV modding website: https://questwalker.github.io/votv-modding-wiki/docs/moddi
 Should have everything you'd need to start modding
 
 IMPORTANT: DO NOT LEAK ANY ASSETS YOU DATAMINE, THE CREATORS OF VOTV DON'T LIKE THAT
+
+also VoidMod, which was used for mods in older versions of VotV, is no longer supported.
