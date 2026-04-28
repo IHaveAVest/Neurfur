@@ -10,6 +10,6 @@ Should have everything you'd need to start modding
 https://forums.nexusmods.com/topic/13008954-a-short-guide-on-unreal-engine-4-modding/
 general modding info for unreal
 
-IMPORTANT: DO NOT LEAK ANY ASSETS YOU DATAMINE, THE CREATORS OF VOTV DON'T LIKE THAT
+IMPORTANT: DO NOT LEAK ANY VOTV ASSETS YOU DATAMINE, THE CREATORS OF VOTV DON'T LIKE THAT
 
 also VoidMod, which was used for mods in older versions of VotV, is no longer supported.
