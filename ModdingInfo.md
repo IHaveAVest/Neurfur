@@ -11,9 +11,11 @@ Additionally, there are a couple mods like [ChaosMod](https://github.com/modesti
 ### Getting Data out of VotV
 Getting data out of VotV can be quite tricky, but with a few tools it can be done.
 
-**DO NOT DATAMINE TO DISCOVER SECRETS, DO NOT SPOIL, AND VERY DO NOT JUST POST THE CODE YOU FIND ON THE WIDER INTERNET, YOU *WILL* BE KICKED FROM THE PROJECT IF YOU DO**
+**DO NOT DATAMINE VOTV'S CODE TO DISCOVER SECRETS, DO NOT SPOIL, AND VERY DO NOT JUST POST THE CODE YOU FIND IN VOTV ON THE WIDER INTERNET, YOU *WILL* BE KICKED FROM THE PROJECT IF YOU DO**
 
-Datamining to spoil is against the devs' wishes and would most likely cause a lot of problems for this project
+Datamining to spoil is against the VotV devs' wishes and would most likely cause a lot of problems for this project.
+
+I don't personally have much of an issue with anyone looking through this repo's code though. Just be sensible, and please don't spoil any secrets in this mod for any streamers.
 - Fmodel: Asset viewer, can export uasset files
 - Kismet analyzer: Tool for viewing blueprints, can be hard to read them but it's far better than nothing
   - Kismet must be run from terminal in the folder with the exe
