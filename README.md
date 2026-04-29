@@ -10,6 +10,10 @@ Should have everything you'd need to start modding
 https://forums.nexusmods.com/topic/13008954-a-short-guide-on-unreal-engine-4-modding/
 general modding info for unreal
 
+SDKs to be used (community made, use at your own risk):
+- C++: https://github.com/chris-pie/neuro-sdk-websocketpp
+- Lua: https://github.com/Gunoshozo/lua-neuro-sama-game-api
+
 IMPORTANT: DO NOT LEAK ANY VOTV ASSETS YOU DATAMINE, THE CREATORS OF VOTV DON'T LIKE THAT
 
 also VoidMod, which was used for mods in older versions of VotV, is no longer supported.
