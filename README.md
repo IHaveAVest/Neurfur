@@ -7,8 +7,9 @@ Neuro Voices of the Void integration
 VotV modding website: https://questwalker.github.io/votv-modding-wiki/docs/modding-intro
 Should have everything you'd need to start modding
 
-https://forums.nexusmods.com/topic/13008954-a-short-guide-on-unreal-engine-4-modding/
 general modding info for unreal
+- https://forums.nexusmods.com/topic/13008954-a-short-guide-on-unreal-engine-4-modding/
+- https://github.com/Dmgvol/UE_Modding
 
 SDKs to be used (community made, use at your own risk):
 - C++: https://github.com/chris-pie/neuro-sdk-websocketpp
