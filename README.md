@@ -1,5 +1,5 @@
 # Neurfur
-Neuro Voices of the Void integration
+Neuro Voices of the Void integration, to give her control of a Kerfur robot, and maybe have other stuff too
 
 [Voices of the Void](https://mrdrnose.itch.io/votv)
 
