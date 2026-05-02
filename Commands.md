@@ -23,8 +23,8 @@ movePawnTo(object)
 	- kerfurO parts?
 - add ability to go to coordinates?
 
-follow()
-- vanilla kerfurO function, ported to the kerfur. follows the player.
+~~follow()~~
+- ~~vanilla kerfurO function, ported to the kerfur. follows the player.~~ Kerfurs follow the player when idle.
 
 getData()
 - gets context, slightly modded
