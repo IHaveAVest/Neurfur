@@ -26,6 +26,9 @@ movePawnTo(object)
 ~~follow()~~
 - ~~vanilla kerfurO function, ported to the kerfur. follows the player.~~ Kerfurs follow the player when idle.
 
+stay()
+- Neurfur stops moving (modded)
+
 getData()
 - gets context, slightly modded
 
